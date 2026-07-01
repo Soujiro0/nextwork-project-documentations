@@ -32,7 +32,7 @@ Browse the table below to explore individual projects, download PDF lessons, rev
 
 | ID | Project Title & Guide | Domain & Difficulty | Documentation Assets | Live Demo |
 | :---: | :--- | :---: | :--- | :---: |
-| **#01** | [**My First NextWork Project**](./projects/01-my-first-project/) <br> *Core Cloud Infrastructure Setup* | ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white) <br> `Beginner` | [📄 PDF](./projects/01-my-first-project/lesson.pdf) • [📑 Lesson](./projects/01-my-first-project/README.md) • [💻 Code](./projects/01-my-first-project/code/) | [🔗 Live Project](./projects/01-my-first-project/project-link.txt) |
+| **#01** | [**Deploy an App with Docker**](./projects/01-deploy-app-with-docker/) <br> *Containerization & AWS Elastic Beanstalk* | ![DevOps & AWS](https://img.shields.io/badge/DevOps%20%26%20AWS-007ACC?style=flat&logo=docker&logoColor=white) <br> `Beginner / Intermediate` | [📄 PDF](./projects/01-deploy-app-with-docker/lesson.pdf) • [📑 Lesson](./projects/01-deploy-app-with-docker/README.md) • [💻 Code](./projects/01-deploy-app-with-docker/code/sample_code.zip) | [🔗 Live Project](./projects/01-deploy-app-with-docker/project-link.txt) |
 
 > 💡 *Click on any **Project Title** to navigate directly to its full Markdown guide and directory.*
 
